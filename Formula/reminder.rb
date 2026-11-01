@@ -1,8 +1,8 @@
 class Reminder < Formula
   desc "Native Apple Reminders CLI and MCP server"
   homepage "https://github.com/astrosheep-zero/reminders-cli"
-  url "https://github.com/astrosheep-zero/reminders-cli/archive/refs/tags/v0.1.1.tar.gz"
-  sha256 "40b78789d580b8b67d9444ae9aff779909501f257fc458adaadb06868603b7fa"
+  url "https://github.com/astrosheep-zero/reminders-cli/archive/refs/tags/v0.2.0.tar.gz"
+  sha256 "f69a25614b92e0a33bb95910efed8a523da5472dabcccfc6ecf4831e57048084"
   license "MIT"
 
   depends_on arch: :arm64
